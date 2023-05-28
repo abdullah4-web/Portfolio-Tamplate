@@ -1,38 +1,56 @@
-### Description
+<div align="center">
+	<h1> My Portfolio </h1>
+</div>
 
-A simple portfolio template for developer/designers built with React. 
-
-### [live preview](https://abdullahorakzai.netlify.app/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
-
-### Features
-
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
-
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/abdullah4-web/Portfolio-Tamplate.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
+## Snapshot 📸
+![Portfolio Landing Page](https://user-images.githubusercontent.com/60526129/220429098-094368a0-c117-4036-a113-a625cf563c3c.png)
 
 
-Start the server
+## Tech Stack ✨
 
-<pre>yarn start</pre>
+- [React.js](https://reactjs.org/) - UI Library
+- [Framer Motion](https://www.framer.com/motion/) - Animations
+- [Create React App](https://create-react-app.dev/) - Build tool
+- [Netlify](https://www.netlify.com/) - Hosting and Deployment
 
-### More
+## How to run locally 💻
 
-Modify pages content in  `src/content_option.js`.
+Follow these steps to run My Portfolio in your local machine.
 
-### Thanks
+### Clone this repository
 
-If you like this portfolio template don't forget give it a ⭐ 
+```bash
+git clone https://github.com/Pappyjay23/my-portfolio-1.git
+```
+
+### Navigate to directory
+
+```bash
+cd my-portfolio-1
+```
+
+### Install NPM
+
+```bash
+npm install
+```
+
+### Run
+
+Run the development server to view the app.
+
+```bash
+npm start
+```
+
+Now, you can navigate to http://localhost:3000/ to view the app.
+
+### Build
+
+```bash
+npm run build
+```
+
+## Credits ✍
+
+Implementation by [@Pappyjay23](https://github.com/Pappyjay23)
