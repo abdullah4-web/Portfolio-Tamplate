@@ -7,7 +7,7 @@ Follow these steps to run My Portfolio in your local machine.
 ### Clone this repository
 
 ```bash
-git clone https://github.com/Pappyjay23/my-portfolio-1.git
+git clone https://github.com/abdullah4-web/Portfolio-Tamplate
 ```
 
 ### Navigate to directory
